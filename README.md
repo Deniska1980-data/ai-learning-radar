@@ -43,7 +43,7 @@ Projekt vytváří automatizovaný informační kanál, který pomáhá sledovat
 
 ## Architektura řešení
 
-![AI Learning Radar](screenshots/screenshot_ai_radar.png)
+![AI Learning Radar](screenshot_ai_radar.png)
 
 ---
 
@@ -92,4 +92,4 @@ The solution provides an automated knowledge-sharing workflow that helps users s
 
 ## Solution Overview
 
-![AI Learning Radar](screenshots/screenshot_ai_radar.png)
+![AI Learning Radar](screenshot_ai_radar.png)
