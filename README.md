@@ -1,4 +1,15 @@
 ## (CZ) - Automatizovaný monitoring AI a cloudových novinek v Microsoft ekosystému.
+## Moje role
+
+V rámci projektu jsem:
+
+navrhla workflow architekturu
+vytvořila Power Automate flow
+integrovala Azure OpenAI pro generování souhrnů
+nakonfigurovala SharePoint List pro ukládání výsledků
+nastavila publikaci novinek do Microsoft Teams
+testovala a ověřovala funkčnost celého řešení
+vytvořila dokumentaci projektu
 
 Projekt pravidelně sleduje vybrané Microsoft RSS zdroje, automaticky zpracovává nové články pomocí Azure OpenAI, ukládá výsledky do SharePointu a publikuje souhrny do Microsoft Teams.
 
@@ -48,6 +59,17 @@ Projekt vytváří automatizovaný informační kanál, který pomáhá sledovat
 ---
 
 ## (EN) - Automated monitoring of AI and cloud news within the Microsoft ecosystem.
+## My Role
+
+Within this project I:
+
+designed the workflow architecture
+built the Power Automate flow
+integrated Azure OpenAI for AI-generated summaries
+configured SharePoint List storage
+implemented Microsoft Teams notifications
+tested and validated the end-to-end solution
+prepared project documentation
 
 The solution periodically monitors selected Microsoft RSS feeds, processes new articles using Azure OpenAI, stores results in SharePoint, and publishes summaries to Microsoft Teams.
 
