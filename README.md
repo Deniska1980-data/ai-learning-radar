@@ -1,4 +1,7 @@
 ## (CZ) - Automatizovaný monitoring AI a cloudových novinek v Microsoft ekosystému.
+
+**Stav projektu:** Dokončeno
+**Typ projektu:** Osobní portfolio projekt
 ## Moje role
 
 V rámci projektu jsem:
@@ -59,6 +62,9 @@ Projekt vytváří automatizovaný informační kanál, který pomáhá sledovat
 ---
 
 ## (EN) - Automated monitoring of AI and cloud news within the Microsoft ecosystem.
+
+**Project Status:** Completed
+**Project Type:** Personal Portfolio Project
 ## My Role
 
 Within this project I:
