@@ -1,3 +1,4 @@
+# AI Learning Radar
 ## (CZ) - Automatizovaný monitoring AI a cloudových novinek v Microsoft ekosystému.
 
 **Stav projektu:** Dokončeno
@@ -61,7 +62,7 @@ Projekt vytváří automatizovaný informační kanál, který pomáhá sledovat
 ![AI Learning Radar](screenshot_ai_radar.png)
 
 ---
-
+# AI Learning Radar
 ## (EN) - Automated monitoring of AI and cloud news within the Microsoft ecosystem.
 
 **Project Status:** Completed
